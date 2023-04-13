@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(111, 109, 109);
+}
+
+.btn {
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  border-radius: 12px;
+  box-shadow: none;
+  border: solid 1px black;
+}
+
+.btn-div {
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+
+#input-div {
+  padding: 10px;
+  text-align: center;
+}
+
+#output-div {
+  padding: 10px;
+  text-align: center;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
+
+#input::placeholder {
+  text-align: center;
+}
+
+#input {
+  width: 200px;
+  height: 180px;
+  border-radius: 8%;
+  border: solid 1px black;
+}
+
+#output {
+  width: 200px;
+  height: 180px;
+  border-radius: 8%;
+  border: solid 1px black;
+}
